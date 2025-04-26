@@ -1,0 +1,3 @@
+C:/Study/OP/Project_OP_7/labwork7-BEE-kg/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Study/OP/Project_OP_7/labwork7-BEE-kg/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Study/OP/Project_OP_7/labwork7-BEE-kg/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

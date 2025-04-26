@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\a.exe.dir\\main.cpp.obj -c C:\\Study\\OP\\Project_OP_5\\labwork5-BEE-kg\\main.cpp",
+  "file": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/main.cpp",
+  "output": "CMakeFiles/a.exe.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\a.exe.dir\\all_other_functions.cpp.obj -c C:\\Study\\OP\\Project_OP_5\\labwork5-BEE-kg\\all_other_functions.cpp",
+  "file": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/all_other_functions.cpp",
+  "output": "CMakeFiles/a.exe.dir/all_other_functions.cpp.obj"
+},
+{
+  "directory": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\a.exe.dir\\parser.cpp.obj -c C:\\Study\\OP\\Project_OP_5\\labwork5-BEE-kg\\parser.cpp",
+  "file": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/parser.cpp",
+  "output": "CMakeFiles/a.exe.dir/parser.cpp.obj"
+},
+{
+  "directory": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\a.exe.dir\\important_functions.cpp.obj -c C:\\Study\\OP\\Project_OP_5\\labwork5-BEE-kg\\important_functions.cpp",
+  "file": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/important_functions.cpp",
+  "output": "CMakeFiles/a.exe.dir/important_functions.cpp.obj"
+},
+{
+  "directory": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\a.exe.dir\\work_with_file.cpp.obj -c C:\\Study\\OP\\Project_OP_5\\labwork5-BEE-kg\\work_with_file.cpp",
+  "file": "C:/Study/OP/Project_OP_5/labwork5-BEE-kg/work_with_file.cpp",
+  "output": "CMakeFiles/a.exe.dir/work_with_file.cpp.obj"
+}
+]

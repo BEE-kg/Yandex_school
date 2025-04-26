@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2173bba5cdff00ffa3a396c87b24f28c _deps/curl-build/CMakeFiles/uninstall
+22dd015bdcd53d2e0301bd7b76f5a628 _deps/zlib-build/zlib1rc.obj

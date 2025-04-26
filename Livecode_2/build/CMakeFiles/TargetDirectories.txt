@@ -1,0 +1,3 @@
+C:/Study/OP/live_2/livecoding2-BEE-kg/build/CMakeFiles/livecoding2.dir
+C:/Study/OP/live_2/livecoding2-BEE-kg/build/CMakeFiles/edit_cache.dir
+C:/Study/OP/live_2/livecoding2-BEE-kg/build/CMakeFiles/rebuild_cache.dir

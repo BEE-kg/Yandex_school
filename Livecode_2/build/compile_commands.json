@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Study/OP/live_2/livecoding2-BEE-kg/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\livecoding2.dir\\main.cpp.obj -c C:\\Study\\OP\\live_2\\livecoding2-BEE-kg\\main.cpp",
+  "file": "C:/Study/OP/live_2/livecoding2-BEE-kg/main.cpp",
+  "output": "CMakeFiles/livecoding2.dir/main.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Study/OP/Project_OP_6/labwork6-BEE-kg/build/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
+C:/Study/OP/Project_OP_6/labwork6-BEE-kg/build/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
+C:/Study/OP/Project_OP_6/labwork6-BEE-kg/build/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir
