@@ -1,5 +1,0 @@
-if(EXISTS "C:/Study/OP/Project_OP_7/labwork7-BEE-kg/build/tests/unrolled-list-lib-tests[1]_tests.cmake")
-  include("C:/Study/OP/Project_OP_7/labwork7-BEE-kg/build/tests/unrolled-list-lib-tests[1]_tests.cmake")
-else()
-  add_test(unrolled-list-lib-tests_NOT_BUILT unrolled-list-lib-tests_NOT_BUILT)
-endif()
