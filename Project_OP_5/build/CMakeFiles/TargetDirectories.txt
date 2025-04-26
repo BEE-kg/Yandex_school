@@ -1,3 +1,0 @@
-C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build/CMakeFiles/a.exe.dir
-C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build/CMakeFiles/edit_cache.dir
-C:/Study/OP/Project_OP_5/labwork5-BEE-kg/build/CMakeFiles/rebuild_cache.dir
